@@ -58,7 +58,6 @@ const combinedData = states
         cases: cases,
         deaths: deaths,
       }));
-    console.log(covidStats);
 
     const restrictions = restrictionsData
       .filter((d) => d["RegionName"] === name)
