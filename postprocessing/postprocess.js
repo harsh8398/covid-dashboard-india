@@ -55,8 +55,8 @@ const combinedData = states
       .filter((d) => d["state"] === name)
       .map(({ date, cases, deaths }) => ({
         Date: date,
-        cases: cases,
-        deaths: deaths,
+        cases: cases.length ? +cases : null,
+        deaths: deaths.length ? +deaths : null,
       }));
 
     const restrictions = restrictionsData
