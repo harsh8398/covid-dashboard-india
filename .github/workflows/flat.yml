@@ -8,7 +8,7 @@ on:
       - .github/workflows/flat.yml
       - ./postprocessing/parse-covid-stats-data.js
       # - ./postprocessing/parse-mobility-data.js
-      - ./queries/query.sql
+      # - ./queries/query.sql
 jobs:
   scheduled:
     runs-on: ubuntu-latest
