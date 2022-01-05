@@ -8,55 +8,55 @@ import {
 const outputFilename = "./dashboard/data.json";
 
 // load data saved from Flat
-const mobilityData = await readJSON("./raw-data/mobility.json");
+// const mobilityData = await readJSON("./raw-data/mobility.json");
 const covidStatsData = await readJSON("./raw-data/covid_stats.json");
 const restrictionsData = await readCSV("./raw-data/restrictions_per_state.csv");
 const states = await readJSON("./postprocessing/stateNames.json");
 
 // combine our data sources into a single array of objects
 const combinedData = states
-  .map(({ name, abbreviation }) => {
-    const mobilityRaw = mobilityData.find((d) => d["sub_region_1"] === name);
-    if (!mobilityRaw) return;
-    const mobility = {
-      date: mobilityRaw["date"],
-      groceryAndPharmacyPercentChangeFromBaseline: mobilityRaw[
-        "grocery_and_pharmacy_percent_change_from_baseline"
-      ].length
-        ? +mobilityRaw["grocery_and_pharmacy_percent_change_from_baseline"]
-        : null,
-      parksPercentChangeFromBaseline: mobilityRaw[
-        "parks_percent_change_from_baseline"
-      ].length
-        ? +mobilityRaw["parks_percent_change_from_baseline"]
-        : null,
-      residentialPercentChangeFromBaseline: mobilityRaw[
-        "residential_percent_change_from_baseline"
-      ].length
-        ? +mobilityRaw["residential_percent_change_from_baseline"]
-        : null,
-      retailAndRecreationPercentChangeFromBaseline: mobilityRaw[
-        "retail_and_recreation_percent_change_from_baseline"
-      ].length
-        ? +mobilityRaw["retail_and_recreation_percent_change_from_baseline"]
-        : null,
-      transitStationsPercentChangeFromBaseline: mobilityRaw[
-        "transit_stations_percent_change_from_baseline"
-      ].length
-        ? +mobilityRaw["transit_stations_percent_change_from_baseline"]
-        : null,
-      workplacesPercentChangeFromBaseline: mobilityRaw[
-        "workplaces_percent_change_from_baseline"
-      ].length
-        ? +mobilityRaw["workplaces_percent_change_from_baseline"]
-        : null,
-    };
+  .map(({ name, sno }) => {
+    // const mobilityRaw = mobilityData.find((d) => d["sub_region_1"] === name);
+    // if (!mobilityRaw) return;
+    // const mobility = {
+    //   date: mobilityRaw["date"],
+    //   groceryAndPharmacyPercentChangeFromBaseline: mobilityRaw[
+    //     "grocery_and_pharmacy_percent_change_from_baseline"
+    //   ].length
+    //     ? +mobilityRaw["grocery_and_pharmacy_percent_change_from_baseline"]
+    //     : null,
+    //   parksPercentChangeFromBaseline: mobilityRaw[
+    //     "parks_percent_change_from_baseline"
+    //   ].length
+    //     ? +mobilityRaw["parks_percent_change_from_baseline"]
+    //     : null,
+    //   residentialPercentChangeFromBaseline: mobilityRaw[
+    //     "residential_percent_change_from_baseline"
+    //   ].length
+    //     ? +mobilityRaw["residential_percent_change_from_baseline"]
+    //     : null,
+    //   retailAndRecreationPercentChangeFromBaseline: mobilityRaw[
+    //     "retail_and_recreation_percent_change_from_baseline"
+    //   ].length
+    //     ? +mobilityRaw["retail_and_recreation_percent_change_from_baseline"]
+    //     : null,
+    //   transitStationsPercentChangeFromBaseline: mobilityRaw[
+    //     "transit_stations_percent_change_from_baseline"
+    //   ].length
+    //     ? +mobilityRaw["transit_stations_percent_change_from_baseline"]
+    //     : null,
+    //   workplacesPercentChangeFromBaseline: mobilityRaw[
+    //     "workplaces_percent_change_from_baseline"
+    //   ].length
+    //     ? +mobilityRaw["workplaces_percent_change_from_baseline"]
+    //     : null,
+    // };
     const covidStats = covidStatsData
       .filter((d) => d["state"] === name)
       .map(({ date, cases, deaths }) => ({
         Date: date,
-        cases: cases.length ? +cases : null,
-        deaths: deaths.length ? +deaths : null,
+        cases: cases,
+        deaths: deaths,
       }));
 
     const restrictions = restrictionsData

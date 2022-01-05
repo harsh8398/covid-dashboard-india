@@ -1,7 +1,7 @@
 import React from "react";
 import { timeParse } from "d3";
 import { StateDataType } from "../interfaces";
-import { MobilityData } from "./MobilityData";
+// import { MobilityData } from "./MobilityData";
 import { Timeline } from "./Timeline";
 import { RestrictionsTimeline } from "./RestrictionsTimeline";
 
@@ -40,7 +40,7 @@ export const StateData = ({ data }: Props) => {
           . We're looking at the percent change from baseline (the median value,
           for the corresponding day of the week, from Jan 3 – Feb 6, 2020).
         </p>
-        <MobilityData data={data["mobility"]} />
+        {/* <MobilityData data={data["mobility"]} /> */}
       </section>
 
       <section className="mt-6 mb-44">

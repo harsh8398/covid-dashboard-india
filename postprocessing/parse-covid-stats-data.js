@@ -1,18 +1,21 @@
 import {
-  readCSV,
+  readJSON,
   writeJSON,
   removeFile,
 } from "https://deno.land/x/flat@0.0.8/mod.ts";
-import { parse, format } from "https://deno.land/std@0.69.0/datetime/mod.ts";
+import { format } from "https://deno.land/std@0.69.0/datetime/mod.ts";
 
 const inputFilename = Deno.args[0];
-const outputFilename = inputFilename.replace(".csv", ".json");
+const outputFilename = inputFilename.replace("_latest", "");
 
-const contents = await readCSV(inputFilename, { skipFirstRow: true });
+const contents = await readJSON(inputFilename);
 
 const parsedContents = contents.map((d) => ({
-  ...d,
-  date: format(parse(d["date"], "yyyy-MM-dd"), "MM/dd/yyyy"),
+  cases: d["new_active"] - d["active"] > 0 ? d["new_active"] - d["active"] : 0,
+  deaths: d["new_death"] - d["death"],
+  date: format(new Date(), "MM/dd/yyyy"),
+  state: d["state_name"].replaceAll("*", ""),
+  sno: d["sno"],
 }));
 
 // await removeFile(inputFilename);

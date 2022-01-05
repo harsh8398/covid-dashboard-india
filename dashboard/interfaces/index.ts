@@ -4,19 +4,19 @@
 //
 // import { User } from 'path/to/interfaces';
 
-export interface MobilityDataType {
-  date: string;
-  groceryAndPharmacyPercentChangeFromBaseline: number;
-  parksPercentChangeFromBaseline: number;
-  residentialPercentChangeFromBaseline: number;
-  retailAndRecreationPercentChangeFromBaseline: number;
-  transitStationsPercentChangeFromBaseline: number;
-  workplacesPercentChangeFromBaseline: number;
-}
+// export interface MobilityDataType {
+//   date: string;
+//   groceryAndPharmacyPercentChangeFromBaseline: number;
+//   parksPercentChangeFromBaseline: number;
+//   residentialPercentChangeFromBaseline: number;
+//   retailAndRecreationPercentChangeFromBaseline: number;
+//   transitStationsPercentChangeFromBaseline: number;
+//   workplacesPercentChangeFromBaseline: number;
+// }
 
 export interface StateDataType {
   name: string;
-  mobility: MobilityDataType;
+  // mobility: MobilityDataType;
   covidStats: any[];
   restrictions: any[];
 }
