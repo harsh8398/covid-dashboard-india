@@ -45,6 +45,9 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
+      - name: Sleep for 15 seconds
+        run: sleep 15s
+        shell: bash
       - name: Checkout code
         uses: actions/checkout@master
       - name: Process files
