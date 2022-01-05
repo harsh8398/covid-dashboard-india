@@ -24,7 +24,7 @@ export const StateData = ({ data }: Props) => {
         </h1>
       </div>
 
-      <section className="mt-6 mb-24">
+      {/* <section className="mt-6 mb-24">
         <h2 className="heading">
           Mobility{" "}
           <span className="font-extralight">(Change from baseline)</span>
@@ -40,8 +40,8 @@ export const StateData = ({ data }: Props) => {
           . We're looking at the percent change from baseline (the median value,
           for the corresponding day of the week, from Jan 3 – Feb 6, 2020).
         </p>
-        {/* <MobilityData data={data["mobility"]} /> */}
-      </section>
+        <MobilityData data={data["mobility"]} />
+      </section> */}
 
       <section className="mt-6 mb-44">
         <h2 className="heading">Restrictions</h2>
@@ -96,14 +96,11 @@ export const StateData = ({ data }: Props) => {
         <h2 className="heading">COVID Cases</h2>
         <p className="text-gray-500 mb-12 font-light tracking-wide">
           This data is from{" "}
-          <a
-            className="underline"
-            href="https://github.com/nytimes/covid-19-data#cumulative-cases-and-deaths"
-          >
-            this NYTimes GitHub repository
+          <a className="underline" href="https://www.mohfw.gov.in/">
+            this Ministry of Health and Family Welfare's official website
           </a>
           , depicting up-to-date stats on COVID-19 cases and deaths per state in
-          the United States.
+          India.
         </p>
         <Timeline
           data={data["covidStats"]}

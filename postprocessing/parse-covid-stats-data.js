@@ -20,4 +20,5 @@ const parsedContents = contents.map((d) => ({
 
 // await removeFile(inputFilename);
 
-await writeJSON(outputFilename, parsedContents);
+const existingContents = await readJSON(outputFilename);
+await writeJSON(outputFilename, existingContents + parsedContents);
