@@ -91,7 +91,7 @@ const combinedData = states
           ? +d["C8_International travel controls"]
           : null,
       }));
-    return { name, mobility, covidStats, restrictions };
+    return { name, covidStats, restrictions };
   })
   .filter(Boolean);
 
