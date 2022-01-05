@@ -28,7 +28,7 @@ jobs:
         uses: githubocto/flat@v2
         with:
           http_url: https://www.mohfw.gov.in/data/datanew.json
-          downloaded_filename: ./raw-data/covid_stats_latest.csv
+          downloaded_filename: ./raw-data/covid_stats_latest.json
           postprocess: ./postprocessing/parse-covid-stats-data.js
       # - name: Fetch data
       #   uses: githubocto/flat@v2
