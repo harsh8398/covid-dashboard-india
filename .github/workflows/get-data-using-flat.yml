@@ -1,16 +1,16 @@
-name: data
+name: Get Data
 on:
   schedule:
     - cron: 0 0 */2 * *
   workflow_dispatch: {}
   push:
     paths:
-      - .github/workflows/flat.yml
+      - .github/workflows/get-data-using-flat.yml
       - ./postprocessing/parse-covid-stats-data.js
       # - ./postprocessing/parse-mobility-data.js
       # - ./queries/query.sql
 jobs:
-  scheduled:
+  get-data:
     runs-on: ubuntu-latest
     steps:
       - name: Setup deno
@@ -37,29 +37,3 @@ jobs:
       #     sql_queryfile: ./queries/query.sql
       #     downloaded_filename: ./raw-data/mobility.csv
       #     postprocess: ./postprocessing/parse-mobility-data.js
-  postprocess:
-    runs-on: ubuntu-latest
-    needs: scheduled
-    steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: v1.x
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Process files
-        run: deno run -A --unstable ./postprocessing/postprocess.js
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-      - name: Build dashboard with updated data
-        working-directory: ./dashboard
-        run: yarn && yarn deploy-action
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dashboard/out

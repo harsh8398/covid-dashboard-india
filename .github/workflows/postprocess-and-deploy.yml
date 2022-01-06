@@ -1,0 +1,34 @@
+name: Postprocess and Deploy
+on:
+  workflow_dispatch: {}
+  workflow_run:
+    workflows: ["Get Data"]
+    branches: [main]
+    types: 
+      - completed
+jobs:
+  postprocess-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Process files
+        run: deno run -A --unstable ./postprocessing/postprocess.js
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+      - name: Build dashboard with updated data
+        working-directory: ./dashboard
+        run: yarn && yarn deploy-action
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dashboard/out
