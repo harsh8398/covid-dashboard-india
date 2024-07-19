@@ -29,57 +29,57 @@
 <meta name="keywords" content="mohfw, ministry of health, health and family welfare, ministry of health and family welfare, naco, department of ayush, national" />
 <meta name="description" content="MInistry of Health and Family Welfare is a Ministry under the Government of India and is charged with formulation, implementatio" />
   <style>
-@import url("https://main.mohfw.gov.in/modules/system/system.base.css?sgg7ax");
+@import url("https://main.mohfw.gov.in/modules/system/system.base.css?sgtc2w");
 </style>
 <style>
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/calendar/css/calendar_multiday.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/date/date_api/date.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/date/date_popup/themes/datepicker.1.7.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/date/date_repeat_field/date_repeat_field.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/modules/field/theme/field.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/modules/node/node.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/modules/search/search.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/modules/user/user.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/views/css/views.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/extlink/extlink.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/ckeditor/css/ckeditor.css?sgg7ax");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/calendar/css/calendar_multiday.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/date/date_api/date.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/date/date_popup/themes/datepicker.1.7.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/date/date_repeat_field/date_repeat_field.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/modules/field/theme/field.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/modules/node/node.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/modules/search/search.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/modules/user/user.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/views/css/views.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/extlink/extlink.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/ckeditor/css/ckeditor.css?sgtc2w");
 </style>
 <style>
-@import url("https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/css/base.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/css/font.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/css/base-responsive.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/css/font-awesome.min.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/ctools/css/ctools.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/lightbox2/css/lightbox.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/panels/css/panels.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/video/css/video.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/flexslider/assets/css/flexslider_img.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/libraries/flexslider/flexslider.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/libraries/superfish/css/superfish.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/libraries/superfish/css/superfish-smallscreen.css?sgg7ax");
+@import url("https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/css/base.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/css/font.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/css/base-responsive.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/css/font-awesome.min.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/ctools/css/ctools.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/lightbox2/css/lightbox.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/panels/css/panels.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/video/css/video.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/modules/contributed/flexslider/assets/css/flexslider_img.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/libraries/flexslider/flexslider.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/libraries/superfish/css/superfish.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/libraries/superfish/css/superfish-smallscreen.css?sgtc2w");
 </style>
 <style>
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/bootstrap.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/style.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/material-design-iconic-font.min.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/animate.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/ie10-viewport-bug-workaround.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/owl.carousel.min.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/owl.theme.default.min.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/styles.css?sgg7ax");
-@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/print.css?sgg7ax");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/bootstrap.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/style.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/material-design-iconic-font.min.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/animate.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/ie10-viewport-bug-workaround.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/owl.carousel.min.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/owl.theme.default.min.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/styles.css?sgtc2w");
+@import url("https://main.mohfw.gov.in/sites/all/themes/dhfw/css/print.css?sgtc2w");
 </style>
   <script src="https://main.mohfw.gov.in/sites/all/modules/contributed/jquery_update/replace/jquery/3.1/jquery.min.js?v=3.1.1"></script>
 <script src="https://main.mohfw.gov.in/misc/jquery-extend-3.4.0.js?v=3.1.1"></script>
 <script src="https://main.mohfw.gov.in/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.1.1"></script>
 <script src="https://main.mohfw.gov.in/misc/jquery.once.js?v=1.2"></script>
-<script src="https://main.mohfw.gov.in/misc/drupal.js?sgg7ax"></script>
+<script src="https://main.mohfw.gov.in/misc/drupal.js?sgtc2w"></script>
 <script src="https://main.mohfw.gov.in/sites/all/modules/contributed/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
 <script src="https://main.mohfw.gov.in/sites/all/modules/contributed/jquery_update/replace/jquery.form/4/jquery.form.min.js?v=4.2.1"></script>
 <script src="https://main.mohfw.gov.in/misc/ajax.js?v=7.73"></script>
 <script src="https://main.mohfw.gov.in/sites/all/modules/contributed/jquery_update/js/jquery_update.js?v=0.0.1"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/admin_menu/admin_devel/admin_devel.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/extlink/extlink.js?sgg7ax"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/admin_menu/admin_devel/admin_devel.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/extlink/extlink.js?sgtc2w"></script>
 <script>
 		var _paq = _paq || [];
 		_paq.push(["trackPageView"]);
@@ -92,28 +92,28 @@
 		}
 	)();</script>
 <script>var base_url ="https://main.mohfw.gov.in"; var themePath = "sites/all/themes/dhfw"; var modulePath = "sites/all/modules/cmf/cmf_content";</script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/js/font-size.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/js/framework.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/js/swithcer.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/cmf/guidelines/js/script.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/lightbox2/js/lightbox.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/video/js/video.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/views/js/base.js?sgg7ax"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/js/font-size.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/js/framework.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/js/swithcer.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/cmf/guidelines/js/script.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/lightbox2/js/lightbox.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/video/js/video.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/views/js/base.js?sgtc2w"></script>
 <script src="https://main.mohfw.gov.in/misc/progress.js?v=7.73"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/views/js/ajax_view.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/libraries/flexslider/jquery.flexslider-min.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/google_analytics/googleanalytics.js?sgg7ax"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/views/js/ajax_view.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/libraries/flexslider/jquery.flexslider-min.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/google_analytics/googleanalytics.js?sgtc2w"></script>
 <script src="https://www.googletagmanager.com/gtag/js?id=G-T85YCYN9V2"></script>
 <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-T85YCYN9V2", {"groups":"default","anonymize_ip":true});</script>
-<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/sfsmallscreen.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/supposition.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/superfish.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/supersubs.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/superfish/superfish.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/themes/dhfw/js/custom.js?sgg7ax"></script>
-<script src="https://main.mohfw.gov.in/sites/all/themes/dhfw/js/jquery.flexslider.js?sgg7ax"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dhfw","theme_token":"r_s4B92YW34vdV1KEhrOxpAMQpO5QjcFcbiLmrIZkbw","jquery_version":"3.1","js":{"sites\/all\/modules\/contributed\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery\/3.1\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contributed\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contributed\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contributed\/extlink\/extlink.js":1,"0":1,"1":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/font-size.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/framework.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/swithcer.js":1,"sites\/all\/modules\/cmf\/guidelines\/js\/script.js":1,"sites\/all\/modules\/contributed\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contributed\/video\/js\/video.js":1,"sites\/all\/modules\/contributed\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contributed\/views\/js\/ajax_view.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-T85YCYN9V2":1,"2":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contributed\/superfish\/superfish.js":1,"sites\/all\/themes\/dhfw\/js\/custom.js":1,"sites\/all\/themes\/dhfw\/js\/jquery.flexslider.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contributed\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contributed\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contributed\/views\/css\/views.css":1,"sites\/all\/modules\/contributed\/extlink\/extlink.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/flexslider.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base-responsive.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font-awesome.min.css":1,"sites\/all\/modules\/contributed\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contributed\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contributed\/panels\/css\/panels.css":1,"sites\/all\/modules\/contributed\/video\/css\/video.css":1,"sites\/all\/modules\/contributed\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/dhfw\/system.menus.css":1,"sites\/all\/themes\/dhfw\/system.messages.css":1,"sites\/all\/themes\/dhfw\/system.theme.css":1,"sites\/all\/themes\/dhfw\/css\/bootstrap.css":1,"sites\/all\/themes\/dhfw\/css\/style.css":1,"sites\/all\/themes\/dhfw\/css\/material-design-iconic-font.min.css":1,"sites\/all\/themes\/dhfw\/css\/animate.css":1,"sites\/all\/themes\/dhfw\/css\/ie10-viewport-bug-workaround.css":1,"sites\/all\/themes\/dhfw\/css\/owl.carousel.min.css":1,"sites\/all\/themes\/dhfw\/css\/owl.theme.default.min.css":1,"sites\/all\/themes\/dhfw\/css\/site-responsive.css":1,"sites\/all\/themes\/dhfw\/css\/styles.css":1,"sites\/all\/themes\/dhfw\/css\/print.css":1}},"jcarousel":{"ajaxPath":"\/?q=jcarousel\/ajax\/views"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)private:\/","default_image":"\/sites\/all\/modules\/contributed\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Zabbix"},"urlIsAjaxTrusted":{"\/":true},"flexslider":{"optionsets":{"flexslider_carousel_with_min_and_max_ranges":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":210,"itemMargin":5,"minItems":2,"maxItems":4,"move":0,"animation":"slide","slideshow":false,"slideshowSpeed":"7000","directionNav":true,"controlNav":true,"prevText":"Previous","nextText":"Next","pausePlay":true,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":false,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"flexslider_carousel_with_min_and_max_ranges"}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":"_blank","extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"account":["G-T85YCYN9V2"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":1,"sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supposition":true,"supersubs":true}}}});</script>
+<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/sfsmallscreen.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/supposition.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/superfish.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/libraries/superfish/supersubs.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/superfish/superfish.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/themes/dhfw/js/custom.js?sgtc2w"></script>
+<script src="https://main.mohfw.gov.in/sites/all/themes/dhfw/js/jquery.flexslider.js?sgtc2w"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dhfw","theme_token":"RUA1hOWuQmDne9aql7lEXVUYJaYzyZDyfnmKuJEt5cE","jquery_version":"3.1","js":{"sites\/all\/modules\/contributed\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery\/3.1\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contributed\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contributed\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contributed\/extlink\/extlink.js":1,"0":1,"1":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/font-size.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/framework.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/swithcer.js":1,"sites\/all\/modules\/cmf\/guidelines\/js\/script.js":1,"sites\/all\/modules\/contributed\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contributed\/video\/js\/video.js":1,"sites\/all\/modules\/contributed\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contributed\/views\/js\/ajax_view.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-T85YCYN9V2":1,"2":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contributed\/superfish\/superfish.js":1,"sites\/all\/themes\/dhfw\/js\/custom.js":1,"sites\/all\/themes\/dhfw\/js\/jquery.flexslider.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contributed\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contributed\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contributed\/views\/css\/views.css":1,"sites\/all\/modules\/contributed\/extlink\/extlink.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/flexslider.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base-responsive.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font-awesome.min.css":1,"sites\/all\/modules\/contributed\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contributed\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contributed\/panels\/css\/panels.css":1,"sites\/all\/modules\/contributed\/video\/css\/video.css":1,"sites\/all\/modules\/contributed\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/dhfw\/system.menus.css":1,"sites\/all\/themes\/dhfw\/system.messages.css":1,"sites\/all\/themes\/dhfw\/system.theme.css":1,"sites\/all\/themes\/dhfw\/css\/bootstrap.css":1,"sites\/all\/themes\/dhfw\/css\/style.css":1,"sites\/all\/themes\/dhfw\/css\/material-design-iconic-font.min.css":1,"sites\/all\/themes\/dhfw\/css\/animate.css":1,"sites\/all\/themes\/dhfw\/css\/ie10-viewport-bug-workaround.css":1,"sites\/all\/themes\/dhfw\/css\/owl.carousel.min.css":1,"sites\/all\/themes\/dhfw\/css\/owl.theme.default.min.css":1,"sites\/all\/themes\/dhfw\/css\/site-responsive.css":1,"sites\/all\/themes\/dhfw\/css\/styles.css":1,"sites\/all\/themes\/dhfw\/css\/print.css":1}},"jcarousel":{"ajaxPath":"\/?q=jcarousel\/ajax\/views"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)private:\/","default_image":"\/sites\/all\/modules\/contributed\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Mozilla\/5.0 (Linux; Android 6.0; Nexus 5 Build\/MRA58N) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/92.0.4515.107 Mobile Safari\/537.3"},"urlIsAjaxTrusted":{"\/":true},"flexslider":{"optionsets":{"flexslider_carousel_with_min_and_max_ranges":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":210,"itemMargin":5,"minItems":2,"maxItems":4,"move":0,"animation":"slide","slideshow":false,"slideshowSpeed":"7000","directionNav":true,"controlNav":true,"prevText":"Previous","nextText":"Next","pausePlay":true,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":false,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"flexslider_carousel_with_min_and_max_ranges"}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":"_blank","extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"account":["G-T85YCYN9V2"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":1,"sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supposition":true,"supersubs":true}}}});</script>
 <noscript>
   <link href="https://main.mohfw.gov.in/sites/all/themes/dhfw/css/no-js.css" type="text/css" rel="stylesheet">
 </noscript>
@@ -185,7 +185,7 @@
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-o41v8wnXuzoQdKsuj_BFAoceqAFI--Xg8OSkOZROAY8" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-aNNTlpGbE6uu9V-X2cumXU50124J6FZ0g7lZCIXfHI0" />
 <input type="hidden" name="form_id" value="search_block_form" />
 </div>
 
@@ -318,7 +318,7 @@
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-slider-for-front view-id-slider_for_front view-display-id-block view-dom-id-e5bc6e1a556dafa63ba352a03b88cf4e">
+<div class="view view-slider-for-front view-id-slider_for_front view-display-id-block view-dom-id-52da3da1fbc1912ff781c546c0345a1a">
         
   
   
@@ -455,7 +455,7 @@
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-front-about-section view-id-front_about_section view-display-id-block view-dom-id-1bd8e279e18d4552d22a5d838b222db6">
+<div class="view view-front-about-section view-id-front_about_section view-display-id-block view-dom-id-2783604bba436fee3a26495a54137396">
         
   
   
@@ -623,7 +623,7 @@ Honble Cabinet Minister<br>
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-press-releases view-id-press_releases view-display-id-block view-dom-id-6fc6349b5854831aa0efd4f3dc195bf7">
+<div class="view view-press-releases view-id-press_releases view-display-id-block view-dom-id-cfceeebe44949c5f2a12aeb0c0f245fe">
         
   
   
@@ -666,7 +666,7 @@ Honble Cabinet Minister<br>
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-press-photos view-id-press_photos view-display-id-block view-dom-id-74721e46d4d6f457a2f4360123565c0d">
+<div class="view view-press-photos view-id-press_photos view-display-id-block view-dom-id-8b0ca839291dd791781969ded70fd04a">
         
   
   
@@ -709,7 +709,7 @@ Honble Cabinet Minister<br>
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-niramaya-ncd-newsletter- view-id-niramaya_ncd_newsletter_ view-display-id-block view-dom-id-ae82dd7068deedb552c6535479c98bbf">
+<div class="view view-niramaya-ncd-newsletter- view-id-niramaya_ncd_newsletter_ view-display-id-block view-dom-id-9b9ee4c4fa2ef93042c92c45bd42b63c">
         
   
   
@@ -791,7 +791,7 @@ Honble Cabinet Minister<br>
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-news-and-highlight view-id-news_and_highlight view-display-id-block view-dom-id-a542ad7a0f18adf11fd624d7dbdccf56">
+<div class="view view-news-and-highlight view-id-news_and_highlight view-display-id-block view-dom-id-08c2c15582cdcd48f48fcde6eb50644a">
         
   
   
@@ -878,7 +878,7 @@ Honble Cabinet Minister<br>
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-disease-alert-on-front-tab view-id-disease_alert_on_front_tab view-display-id-block view-dom-id-b5234b37d39b0db1be11e2a70bb8e15d">
+<div class="view view-disease-alert-on-front-tab view-id-disease_alert_on_front_tab view-display-id-block view-dom-id-d6988a3fa1a6483110a20d59cc73aeee">
         
   
   
@@ -969,7 +969,7 @@ Honble Cabinet Minister<br>
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-related-links view-id-related_links view-display-id-block view-dom-id-9413cafa17caf3dbbb965321252c1778">
+<div class="view view-related-links view-id-related_links view-display-id-block view-dom-id-3e268d0e126d2051b2bad2e971e8a5f7">
         
   
   
@@ -1192,7 +1192,7 @@ Honble Cabinet Minister<br>
 <!-- THEME DEBUG -->
 <!-- CALL: theme('views_view') -->
 <!-- BEGIN OUTPUT from 'sites/all/modules/contributed/views/theme/views-view.tpl.php' -->
-<div class="view view-block-menu view-id-block_menu view-display-id-block view-dom-id-75bb2a698224a30d4e7b658d46c41866">
+<div class="view view-block-menu view-id-block_menu view-display-id-block view-dom-id-d2c541b19c67fc8e62f6f76b50350b82">
         
   
   
@@ -1394,7 +1394,7 @@ Honble Cabinet Minister<br>
             	<a href="http://cmf.gov.in/" target="_blank" rel="noopener noreferrer"><img src="https://main.mohfw.gov.in/sites/all/modules/cmf/cmf_content/assets/images/cmf-logo.png" alt="Built on Common Minimum Framework" title="External site that open in a new windows"></a>
             </div> <div class="copyright-content">
             	Websites Content Managed by  <strong>Ministry of Health and Family Welfare | GOI </strong>
-            <span>Designed, Developed and Hosted by  <a href="http://www.nic.in/" title="NIC, External Link that opens in a new window" target="_blank" rel="noopener noreferrer"><strong>National Informatics Centre( NIC )</strong></a> </span> <span class="lastupdated">Last Updated: <strong>16 Jul 2024</strong></span>
+            <span>Designed, Developed and Hosted by  <a href="http://www.nic.in/" title="NIC, External Link that opens in a new window" target="_blank" rel="noopener noreferrer"><strong>National Informatics Centre( NIC )</strong></a> </span> <span class="lastupdated">Last Updated: <strong>18 Jul 2024</strong></span>
             </div><div class="gtranslate skiptranslate"><script type="text/javascript">/* <![CDATA[ */
 function doGTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;var lang=lang_pair.split('|')[1];var plang=location.pathname.split('/')[1];if(plang.length !=2 && plang != 'zh-CN' && plang != 'zh-TW')plang='en';if(lang == 'en')location.href='/'.replace('/'+plang+'/', '/');else location.href='/'+lang+'/'.replace('/'+plang+'/', '/');}
 /* ]]> */
@@ -1491,7 +1491,7 @@ jQuery(".nav-wrapper ul li").each(function(a){
 
 <!-- END OUTPUT from 'sites/all/themes/zen/templates/region.tpl.php' -->
 
-<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/flexslider/assets/js/flexslider.load.js?sgg7ax"></script>
+<script src="https://main.mohfw.gov.in/sites/all/modules/contributed/flexslider/assets/js/flexslider.load.js?sgtc2w"></script>
 </body>
 </html>
 
